@@ -1,0 +1,5 @@
+streamlit
+pandas
+scikit-learn
+# Add any other libraries you use, like:
+streamlit-aggrid
